@@ -1,0 +1,200 @@
+fileFormatVersion: 2
+guid: 6d86c44ea41adb24b9264e42c564c387
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: Armature
+    100002: Bone
+    100004: Bone.001
+    100006: Bone.003
+    100008: Bone.004
+    100010: Bone.005
+    100012: Bone.005_end
+    100014: Bone.006
+    100016: Bone.007
+    100018: Bone.008
+    100020: Bone.008_end
+    100022: Bone.009
+    100024: Bone.010
+    100026: Bone.011
+    100028: Bone.011_end
+    100030: Bone.012
+    100032: Bone.013
+    100034: Bone.014
+    100036: Bone.014_end
+    100038: Bone_L.004
+    100040: Bone_L.006
+    100042: Bone_L.007
+    100044: Bone_L.008
+    100046: Bone_L.008_end
+    100048: gonghu
+    100050: gonghu.001
+    100052: gonghu.002
+    100054: gonghu.003
+    100056: gonghu.004
+    100058: gonghu.005
+    100060: gonghu.006
+    100062: gonghu.007
+    100064: gonghu.008
+    100066: gonghu.009
+    100068: //RootNode
+    400000: Armature
+    400002: Bone
+    400004: Bone.001
+    400006: Bone.003
+    400008: Bone.004
+    400010: Bone.005
+    400012: Bone.005_end
+    400014: Bone.006
+    400016: Bone.007
+    400018: Bone.008
+    400020: Bone.008_end
+    400022: Bone.009
+    400024: Bone.010
+    400026: Bone.011
+    400028: Bone.011_end
+    400030: Bone.012
+    400032: Bone.013
+    400034: Bone.014
+    400036: Bone.014_end
+    400038: Bone_L.004
+    400040: Bone_L.006
+    400042: Bone_L.007
+    400044: Bone_L.008
+    400046: Bone_L.008_end
+    400048: gonghu
+    400050: gonghu.001
+    400052: gonghu.002
+    400054: gonghu.003
+    400056: gonghu.004
+    400058: gonghu.005
+    400060: gonghu.006
+    400062: gonghu.007
+    400064: gonghu.008
+    400066: gonghu.009
+    400068: //RootNode
+    2100000: palette
+    2300000: gonghu
+    2300002: gonghu.001
+    2300004: gonghu.002
+    2300006: gonghu.003
+    2300008: gonghu.004
+    2300010: gonghu.005
+    2300012: gonghu.006
+    2300014: gonghu.007
+    2300016: gonghu.008
+    2300018: gonghu.009
+    3300000: gonghu
+    3300002: gonghu.001
+    3300004: gonghu.002
+    3300006: gonghu.003
+    3300008: gonghu.004
+    3300010: gonghu.005
+    3300012: gonghu.006
+    3300014: gonghu.007
+    3300016: gonghu.008
+    3300018: gonghu.009
+    4300000: gonghu.006
+    4300002: gonghu.009
+    4300004: gonghu
+    4300006: gonghu.008
+    4300008: gonghu.007
+    4300010: gonghu.002
+    4300012: gonghu.001
+    4300014: gonghu.003
+    4300016: gonghu.004
+    4300018: gonghu.005
+    7400000: Armature|ArmatureAction.002
+    7400002: Armature|idle
+    7400004: Armature|idle.002
+    7400006: Armature|run
+    7400008: Armature|run.001
+    7400010: Armature|run.002
+    7400012: gonghu.006|run
+    9500000: //RootNode
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 0.01
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

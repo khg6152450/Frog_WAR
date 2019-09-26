@@ -1,0 +1,195 @@
+fileFormatVersion: 2
+guid: 51f35823f189e48478e5d788ac21d340
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: Bone
+    100002: Bone.001
+    100004: Bone.001_end
+    100006: Bone.003
+    100008: Bone.004
+    100010: Bone.004_end
+    100012: Bone.005_L
+    100014: Bone.005_L.001
+    100016: Bone.005_L.001_end
+    100018: Bone.005_R
+    100020: Bone.005_R.001
+    100022: Bone.005_R.001_end
+    100024: mosquito
+    100026: mosquito.001
+    100028: mosquito.002
+    100030: mosquito.003
+    100032: mosquito.004
+    100034: //RootNode
+    400000: Bone
+    400002: Bone.001
+    400004: Bone.001_end
+    400006: Bone.003
+    400008: Bone.004
+    400010: Bone.004_end
+    400012: Bone.005_L
+    400014: Bone.005_L.001
+    400016: Bone.005_L.001_end
+    400018: Bone.005_R
+    400020: Bone.005_R.001
+    400022: Bone.005_R.001_end
+    400024: mosquito
+    400026: mosquito.001
+    400028: mosquito.002
+    400030: mosquito.003
+    400032: mosquito.004
+    400034: //RootNode
+    2100000: palette
+    2300000: mosquito
+    2300002: mosquito.001
+    2300004: mosquito.002
+    2300006: mosquito.003
+    2300008: mosquito.004
+    3300000: mosquito
+    3300002: mosquito.001
+    3300004: mosquito.002
+    3300006: mosquito.003
+    3300008: mosquito.004
+    4300000: mosquito.003
+    4300002: mosquito.002
+    4300004: mosquito
+    4300006: mosquito.001
+    4300008: mosquito.004
+    7400000: Armature|Action
+    7400002: Armature|ArmatureAction
+    7400004: Armature|die
+    7400006: Armature|die_real
+    7400008: Armature|flying
+    7400010: Armature|idle
+    7400012: Armature|mosquito.001Action
+    7400014: Armature|mosquito.002Action
+    7400016: Armature|mosquito.003Action
+    7400018: Armature|mosquito.004Action
+    7400020: Armature|mosquitoAction
+    7400022: mosquito.003|Action
+    7400024: mosquito.003|ArmatureAction
+    7400026: mosquito.003|die
+    7400028: mosquito.003|mosquito.001Action
+    7400030: mosquito.003|mosquito.002Action
+    7400032: mosquito.003|mosquito.003Action
+    7400034: mosquito.003|mosquito.004Action
+    7400036: mosquito.003|mosquitoAction
+    7400038: mosquito.002|Action
+    7400040: mosquito.002|ArmatureAction
+    7400042: mosquito.002|die
+    7400044: mosquito.002|mosquito.001Action
+    7400046: mosquito.002|mosquito.002Action
+    7400048: mosquito.002|mosquito.003Action
+    7400050: mosquito.002|mosquito.004Action
+    7400052: mosquito.002|mosquitoAction
+    7400054: mosquito.004|Action
+    7400056: mosquito.004|ArmatureAction
+    7400058: mosquito.004|die
+    7400060: mosquito.004|mosquito.001Action
+    7400062: mosquito.004|mosquito.002Action
+    7400064: mosquito.004|mosquito.003Action
+    7400066: mosquito.004|mosquito.004Action
+    7400068: mosquito.004|mosquitoAction
+    7400070: mosquito|Action
+    7400072: mosquito|ArmatureAction
+    7400074: mosquito|die
+    7400076: mosquito|mosquito.001Action
+    7400078: mosquito|mosquito.002Action
+    7400080: mosquito|mosquito.003Action
+    7400082: mosquito|mosquito.004Action
+    7400084: mosquito|mosquitoAction
+    7400086: mosquito.001|Action
+    7400088: mosquito.001|ArmatureAction
+    7400090: mosquito.001|die
+    7400092: mosquito.001|mosquito.001Action
+    7400094: mosquito.001|mosquito.002Action
+    7400096: mosquito.001|mosquito.003Action
+    7400098: mosquito.001|mosquito.004Action
+    7400100: mosquito.001|mosquitoAction
+    9500000: //RootNode
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 0.01
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

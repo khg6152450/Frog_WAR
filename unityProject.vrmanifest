@@ -1,0 +1,16 @@
+{
+  "source": "Unity",
+  "applications": [
+    {
+      "app_key": "application.generated.unity.vrtest4.exe",
+      "launch_type": "url",
+      "url": "steam://launch/",
+      "action_manifest_path": "C:\\Users\\OWNER\\Desktop\\한창희 도착때 버전\\한창희 도착했을떄 버전\\actions.json",
+      "strings": {
+        "en_us": {
+          "name": "test4 [Testing]"
+        }
+      }
+    }
+  ]
+}
